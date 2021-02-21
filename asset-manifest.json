@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.292e972c.chunk.css",
+    "main.js": "/me/static/js/main.8c2801a1.chunk.js",
+    "main.js.map": "/me/static/js/main.8c2801a1.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.d4499ede.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.d4499ede.js.map",
+    "static/css/2.288d1a71.chunk.css": "/me/static/css/2.288d1a71.chunk.css",
+    "static/js/2.0e616c19.chunk.js": "/me/static/js/2.0e616c19.chunk.js",
+    "static/js/2.0e616c19.chunk.js.map": "/me/static/js/2.0e616c19.chunk.js.map",
+    "static/js/3.63b0d598.chunk.js": "/me/static/js/3.63b0d598.chunk.js",
+    "static/js/3.63b0d598.chunk.js.map": "/me/static/js/3.63b0d598.chunk.js.map",
+    "index.html": "/me/index.html",
+    "static/css/2.288d1a71.chunk.css.map": "/me/static/css/2.288d1a71.chunk.css.map",
+    "static/css/main.292e972c.chunk.css.map": "/me/static/css/main.292e972c.chunk.css.map",
+    "static/js/2.0e616c19.chunk.js.LICENSE.txt": "/me/static/js/2.0e616c19.chunk.js.LICENSE.txt",
+    "static/media/ArbiterSports.712117b4.png": "/me/static/media/ArbiterSports.712117b4.png",
+    "static/media/JioUPI.2a118b43.jpeg": "/me/static/media/JioUPI.2a118b43.jpeg",
+    "static/media/avatar1.1bfdaeba.png": "/me/static/media/avatar1.1bfdaeba.png",
+    "static/media/avatar2.8fb2332f.png": "/me/static/media/avatar2.8fb2332f.png",
+    "static/media/avatar3.7b427dd5.png": "/me/static/media/avatar3.7b427dd5.png",
+    "static/media/App.css": "/me/static/media/testimonial-background.a6ca671b.jpg",
+    "static/media/nav-image5.5fcf17a8.jpg": "/me/static/media/nav-image5.5fcf17a8.jpg",
+    "static/media/profilePic.be9043f0.jpg": "/me/static/media/profilePic.be9043f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4499ede.js",
+    "static/css/2.288d1a71.chunk.css",
+    "static/js/2.0e616c19.chunk.js",
+    "static/css/main.292e972c.chunk.css",
+    "static/js/main.8c2801a1.chunk.js"
+  ]
+}
